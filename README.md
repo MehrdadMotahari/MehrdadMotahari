@@ -45,13 +45,18 @@
 ###
 
 <br clear="both">
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MehrdadMotahari&theme=neon" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MehrdadMotahari&layout=compact&langs_count=8&card_width=320&theme=neon" />
-</a>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MehrdadMotahari&theme=neon" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MehrdadMotahari&layout=compact&langs_count=8&card_width=320&theme=neon" />
+  </a>
+  <br>
+  <a href="https://github.com/MehrdadMotahari/MehrdadMotahari">
+    <img height=200 align="center" src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=your-username&theme=tokyonight" />
+  </a>
+</div>
 
 ###
 
@@ -71,14 +76,3 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="50" alt="gmail logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MehrdadMotahari/MehrdadMotahari/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MehrdadMotahari/MehrdadMotahari/pacman-output/breakout-contribution-graph.svg?game=breakout">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MehrdadMotahari/MehrdadMotahari/pacman-output/breakout-contribution-graph.svg?game=breakout">
-</picture>
-
-###
