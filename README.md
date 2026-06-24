@@ -47,14 +47,14 @@
 <br clear="both">
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MehrdadMotahari&theme=neon" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MehrdadMotahari&theme=neon&hide_rank=true" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MehrdadMotahari&layout=compact&langs_count=8&card_width=320&theme=neon" />
   </a>
   <br>
   <a href="https://github.com/MehrdadMotahari/MehrdadMotahari">
-    <img height=200 align="center" src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=your-username&theme=tokyonight" />
+    <img height=400 align="center" src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=MehrdadMotahari&theme=tokyonight" />
   </a>
 </div>
 
