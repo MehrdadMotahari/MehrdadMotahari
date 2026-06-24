@@ -69,7 +69,7 @@
 <br clear="both">
 
 <div data-importer="socials" align="center">
-  <a href="www.linkedin.com/in/ mehrdad-motahari" target="_blank">
+  <a href="www.linkedin.com/in/mehrdad-motahari" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="50" alt="linkedin logo"  />
   </a>
   <a href="https://discord.com/users/1311668200202698805" target="_blank">
