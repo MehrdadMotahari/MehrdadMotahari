@@ -46,11 +46,12 @@
 
 <br clear="both">
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/MehrdadMotahari/MehrdadMotahari/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/MehrdadMotahari/MehrdadMotahari/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=false&order=2" height="" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/MehrdadMotahari/MehrdadMotahari/activity-graph-output/activity-graph.svg?radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MehrdadMotahari" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MehrdadMotahari&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ###
 
