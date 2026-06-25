@@ -2,12 +2,20 @@
 
 ![Header](./github-header-banner(1).png)
 
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Panda.png" alt="Panda" width="50" height="50" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=500&lines=%24+I+am+Mehrdad;%24+Wellcome+to+my+GitHub!"/>
+</p>
+
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7B2FF7,100:FF00FF&height=2"/>
 </p>
 
-### Backend Developer • Python • Django • Linux
-
+### CE Student • Python | Django Backend Developer
 *Building scalable backend applications and continuously learning new technologies.*
 
 </div>
@@ -16,7 +24,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7B2FF7,100:FF00FF&height=2"/>
 </p>
 
-## 🚀 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> About Me
 
 <p data-importer="text" align="left">I'm Mehrdad,<br>a Computer Engineering student passionate about backend development, DevOps, and AI.<br><br>Currently focusing on:<br><br>- Backend Development<br>- System Design<br>- Linux<br>- Data Structures & Algorithms<br>- Machine Learning<br><br>🧑‍💻 I'm always learning new technologies<br>🐼 I love pandas :)</p>
 
