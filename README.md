@@ -107,16 +107,16 @@
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:mehrdad.mo2005@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
 <a href="https://github.com/MehrdadMotahari">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://t.me/mehrdadiumm">
-<img src="https://skillicons.dev/icons?i=telegram"/>
+<a href="https://t.me/mehrdadiumm" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="48" alt="Telegram"/>
+</a>
+
+<a href="mailto:mehrdad.mo2005@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 <a href="https://instagram.com/mehrdad__motahari">
