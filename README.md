@@ -24,10 +24,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7B2FF7,100:FF00FF&height=2"/>
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> About Me
-
-<p data-importer="text" align="left">I'm Mehrdad,<br>a Computer Engineering student passionate about backend development, DevOps, and AI.<br><br>Currently focusing on:<br><br>- Backend Development<br>- System Design<br>- Linux<br>- Data Structures & Algorithms<br>- Machine Learning<br><br>🧑‍💻 I'm always learning new technologies<br>🐼 I love pandas :)</p>
-
+<div>
+  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> About Me
+  
+  <p data-importer="text" align="left">I'm Mehrdad,<br>a Computer Engineering student passionate about backend development, DevOps, and AI.<br><br>Currently focusing on:<br><br>- Backend Development<br>- System Design<br>- Linux<br>- Data Structures & Algorithms<br>- Machine Learning<br><br>🧑‍💻 I'm always learning new technologies<br>🐼 I love pandas :)</p>
+  
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" align="right" valign="top" width="320"/>
+</div>
 
 ## 🔭 I'm currently working on
 
