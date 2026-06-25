@@ -28,7 +28,7 @@
 
 <div align="left">
   
-  <img src="./programmer mario.gif" align="right" width="600"/>
+  <img src="./programmer mario.gif" align="right" width="500"/>
   
   <p data-importer="text" align="left">I'm Mehrdad,<br>a Computer Engineering student passionate about backend development, DevOps, and AI.<br><br>Currently focusing on:<br><br>- Backend Development<br>- System Design<br>- Linux<br>- Data Structures & Algorithms<br>- Machine Learning<br><br>🧑‍💻 I'm always learning new technologies<br>🐼 I love pandas :)</p>
   
