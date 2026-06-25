@@ -2,7 +2,9 @@
 
 ![Header](./github-header-banner(1).png)
 
-#
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7B2FF7,100:FF00FF&height=2"/>
+</p>
 
 ### Backend Developer • Python • Django • Linux
 
@@ -10,13 +12,17 @@
 
 </div>
 
----
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7B2FF7,100:FF00FF&height=2"/>
+</p>
 
 ## 🚀 About Me
 
 <p data-importer="text" align="left">I'm Mehrdad,<br>a Computer Engineering student passionate about backend development, DevOps, and AI.<br><br>Currently focusing on:<br><br>- Backend Development<br>- System Design<br>- Linux<br>- Data Structures & Algorithms<br>- Machine Learning<br><br>🧑‍💻 I'm always learning new technologies<br>🐼 I love pandas :)</p>
 
----
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7B2FF7,100:FF00FF&height=2"/>
+</p>
 
 ## 🔭 I'm currently working on
 
@@ -53,7 +59,9 @@
 * REST APIs
 * Data Structures & Algorithms
 
----
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7B2FF7,100:FF00FF&height=2"/>
+</p>
 
 # 🛠 Tech Stack
 
@@ -63,7 +71,9 @@
 
 </p>
 
----
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7B2FF7,100:FF00FF&height=2"/>
+</p>
 
 # 📊 GitHub Statistics
 
@@ -77,7 +87,9 @@
 
 </p>
 
----
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7B2FF7,100:FF00FF&height=2"/>
+</p>
 
 # 🔥 GitHub Streak
 
@@ -87,7 +99,9 @@
 
 </p>
 
----
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7B2FF7,100:FF00FF&height=2"/>
+</p>
 
 # 📈 Contribution Graph
 
@@ -97,7 +111,9 @@
 
 </p>
 
----
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7B2FF7,100:FF00FF&height=2"/>
+</p>
 
 # 📫 Connect with Me
 
@@ -125,7 +141,9 @@
 
 </p>
 
----
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7B2FF7,100:FF00FF&height=2"/>
+</p>
 
 <div align="center">
 
@@ -134,6 +152,8 @@
 *"Code. Learn. Build. Repeat."*
 
 <img src="https://github.com/MehrdadMotahari/MehrdadMotahari/blob/output/github-contribution-grid-snake.svg"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:00F5FF,100:7B2FF7&section=footer"/>
 
 </div>
 
