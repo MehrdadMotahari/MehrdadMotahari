@@ -111,11 +111,7 @@
 
 # 🐍 Contribution Snake
 
-<p align="center">
 
-<img src="https://github.com/MehrdadMotahari/MehrdadMotahari/blob/output/github-contribution-grid-snake.svg"/>
-
-</p>
 
 ---
 
@@ -144,6 +140,8 @@
 ### ⭐ Thanks for visiting my profile!
 
 *"Code. Learn. Build. Repeat."*
+
+<img src="https://github.com/MehrdadMotahari/MehrdadMotahari/blob/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
