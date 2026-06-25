@@ -89,16 +89,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MehrdadMotahari&theme=dark&row=1&column=7&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
@@ -106,12 +96,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MehrdadMotahari&theme=tokyo-night"/>
 
 </p>
-
----
-
-# 🐍 Contribution Snake
-
-
 
 ---
 
@@ -129,6 +113,14 @@
 
 <a href="https://github.com/MehrdadMotahari">
 <img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://t.me/mehrdadiumm">
+<img src="https://skillicons.dev/icons?i=telegram"/>
+</a>
+
+<a href="https://instagram.com/mehrdad__motahari">
+<img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
 </p>
