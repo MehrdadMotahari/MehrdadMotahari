@@ -15,7 +15,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7B2FF7,100:FF00FF&height=2"/>
 </p>
 
-### CE Student • Python | Django Backend Developer
+### CE Student • Software Developer
 *Building scalable backend applications and continuously learning new technologies.*
 
 </div>
